@@ -90,6 +90,7 @@ body {
 }
 
 .content__description {
+    line-height: 1.5;
     font-size: var(--primary-font);
     color: var(--color-grey);
 }
