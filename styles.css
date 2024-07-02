@@ -134,14 +134,14 @@ body {
         font-size: 1.25rem;
     }
 
-    .content__description,
-    .author__name {
-        font-size: 0.875rem;
-    }
-
     .content__entrycrumb,
     .content__publishdate {
     font-size: var(--complimentary-font);
+    }
+
+    .content__description,
+    .author__name {
+        font-size: 0.875rem;
     }
     
 }
